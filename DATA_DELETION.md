@@ -12,7 +12,7 @@ This document provides clear instructions for users who want to delete their dat
 3. Confirm deletion
 4. All data will be permanently removed within 30 days
 
-**OR** Email us at: [INSERT SUPPORT EMAIL]
+**OR** Email us at: gratistellar@gmail.com
 
 ---
 
@@ -87,7 +87,7 @@ If you cannot access the app or prefer email:
 ### Email Template:
 
 ```
-To: [INSERT SUPPORT EMAIL]
+To: gratistellar@gmail.com
 Subject: Account Deletion Request - GratiStellar
 
 Hello,
@@ -164,7 +164,7 @@ Under GDPR, you have additional rights:
 
 ### Right to Access (Article 15)
 Request a copy of all your data:
-- Email: [INSERT SUPPORT EMAIL]
+- Email: gratistellar@gmail.com
 - We'll provide data in a machine-readable format within 30 days
 
 ### Right to Rectification (Article 16)
@@ -179,7 +179,7 @@ Export your data:
 
 ### Right to Object (Article 21)
 Object to data processing:
-- Email: [INSERT SUPPORT EMAIL]
+- Email: gratistellar@gmail.com
 - We'll stop processing within 48 hours
 
 ### Right to Erasure / "Right to be Forgotten" (Article 17)
@@ -195,7 +195,7 @@ Under CCPA, you have specific rights:
 
 ### Right to Know
 Request information about data collection:
-- Email: [INSERT SUPPORT EMAIL]
+- Email: gratistellar@gmail.com
 - Subject: "CCPA Data Request"
 
 ### Right to Delete
@@ -208,6 +208,30 @@ Request deletion of personal information:
 ### Non-Discrimination
 - You will not be discriminated against for exercising your rights
 - All features remain available regardless of requests
+
+---
+
+## For Canadian Users (PIPEDA Rights)
+
+Under PIPEDA, you have specific rights:
+
+### Right to Access
+Request access to your personal information:
+- Email: gratistellar@gmail.com
+- Subject: "PIPEDA Access Request"
+
+### Right to Challenge Accuracy
+Challenge the accuracy of your data:
+- Edit entries directly in the app
+- Or email us for assistance
+
+### Right to Withdraw Consent
+Withdraw consent for data processing:
+- Delete your account using Method 1 or Method 2 above
+
+### Complaints
+File a complaint with the Privacy Commissioner of Canada:
+- Website: https://www.priv.gc.ca
 
 ---
 
@@ -282,15 +306,15 @@ GratiStellar uses Firebase for cloud storage:
 
 For any questions or assistance with data deletion:
 
-**Email:** [INSERT SUPPORT EMAIL]  
-**Subject Line:** "Data Deletion Request" or "GDPR Request" or "CCPA Request"  
+**Email:** gratistellar@gmail.com  
+**Subject Line:** "Data Deletion Request" or "GDPR Request" or "CCPA Request" or "PIPEDA Request"  
 **Response Time:** 48 hours for acknowledgment, 7 days for completion
 
-**For Urgent Requests:**  
-[INSERT EMERGENCY CONTACT if applicable]
-
 **Mailing Address:**  
-[INSERT MAILING ADDRESS]
+GratiStellar  
+50 Morton Road  
+Toronto, Ontario  
+Canada M4C4N8
 
 ---
 
@@ -299,6 +323,7 @@ For any questions or assistance with data deletion:
 This data deletion process complies with:
 - **GDPR** (General Data Protection Regulation - EU)
 - **CCPA** (California Consumer Privacy Act - USA)
+- **PIPEDA** (Personal Information Protection and Electronic Documents Act - Canada)
 - **Google Play Store** data deletion requirements
 - **Apple App Store** data deletion requirements (if applicable)
 
@@ -308,5 +333,4 @@ This data deletion process complies with:
 
 ---
 
-*Last Updated: [INSERT DATE]*
-
+*Last Updated: November 17, 2025*

@@ -1,7 +1,7 @@
 # Terms of Service for GratiStellar
 
-**Effective Date:** [INSERT DATE]  
-**Last Updated:** [INSERT DATE]
+**Effective Date:** November 17, 2025  
+**Last Updated:** November 17, 2025
 
 ## 1. Acceptance of Terms
 
@@ -44,7 +44,7 @@ GratiStellar is a personal gratitude journaling application that allows you to:
 
 **You may terminate your account at any time** by:
 - Using the in-app account deletion feature
-- Contacting us at [INSERT SUPPORT EMAIL]
+- Contacting us at gratistellar@gmail.com
 
 **We may terminate or suspend your account if:**
 - You violate these Terms
@@ -159,7 +159,7 @@ Your privacy is important to us. Our collection and use of personal information 
 
 **By using the Service, you consent to our Privacy Policy.**
 
-Privacy Policy: [INSERT PRIVACY POLICY URL]
+Privacy Policy: https://agentfoo88.github.io/GratiStellar-legal/PRIVACY_POLICY.md
 
 ---
 
@@ -246,7 +246,7 @@ You agree to indemnify, defend, and hold harmless GratiStellar, its developers, 
 (If paid features are introduced):
 - Refunds will be subject to platform policies (Google Play, App Store)
 - We do not control platform refund processes
-- Contact [INSERT SUPPORT EMAIL] for refund inquiries
+- Contact gratistellar@gmail.com for refund inquiries
 
 ---
 
@@ -254,14 +254,14 @@ You agree to indemnify, defend, and hold harmless GratiStellar, its developers, 
 
 ### 13.1 Governing Law
 
-These Terms are governed by the laws of [INSERT JURISDICTION], without regard to conflict of law principles.
+These Terms are governed by the laws of Ontario, Canada, without regard to conflict of law principles.
 
 ### 13.2 Arbitration
 
 Any disputes will be resolved through:
 1. **Informal Resolution:** Contact us first to resolve the issue
 2. **Mediation:** If informal resolution fails
-3. **Arbitration:** Binding arbitration in [INSERT JURISDICTION] if mediation fails
+3. **Arbitration:** Binding arbitration in Ontario, Canada if mediation fails
 
 ### 13.3 Class Action Waiver
 
@@ -324,11 +324,14 @@ We are not liable for delays or failures due to circumstances beyond our reasona
 
 For questions, concerns, or notices regarding these Terms:
 
-**Email:** [INSERT SUPPORT EMAIL]  
+**Email:** gratistellar@gmail.com  
 **Response Time:** We aim to respond within 48 hours
 
 **Mailing Address:**  
-[INSERT MAILING ADDRESS]
+GratiStellar  
+50 Morton Road  
+Toronto, Ontario  
+Canada M4C4N8
 
 ---
 
@@ -346,5 +349,4 @@ By using GratiStellar, you acknowledge that:
 
 ---
 
-*These Terms of Service were last updated on [INSERT DATE] and are effective immediately.*
-
+*These Terms of Service were last updated on November 17, 2025 and are effective immediately.*

@@ -1,7 +1,7 @@
 # Privacy Policy for GratiStellar
 
-**Effective Date:** [INSERT DATE]  
-**Last Updated:** [INSERT DATE]
+**Effective Date:** November 17, 2025  
+**Last Updated:** November 17, 2025
 
 ## Introduction
 
@@ -203,7 +203,7 @@ To delete your account and all associated data:
 3. Select "Delete Account"
 4. Confirm deletion
 
-**OR** Email us at: [INSERT SUPPORT EMAIL]
+**OR** Email us at: gratistellar@gmail.com
 
 **Data Removal Timeline:**
 - Immediate: Access to your account is revoked
@@ -258,7 +258,15 @@ If you are a California resident, you have the right to:
 - Opt-out of sale of personal information (we don't sell data)
 - Non-discrimination for exercising your rights
 
-### 9.3 Other Jurisdictions
+### 9.3 Canada (PIPEDA)
+
+If you are a Canadian resident, you have the right to:
+- Access your personal information
+- Challenge the accuracy and completeness of your data
+- Withdraw consent for data processing
+- File a complaint with the Privacy Commissioner of Canada
+
+### 9.4 Other Jurisdictions
 
 We respect and comply with privacy laws in all jurisdictions where our app is available.
 
@@ -297,14 +305,14 @@ In the unlikely event of a data breach:
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or your data:
 
-**Email:** [INSERT SUPPORT EMAIL]  
+**Email:** gratistellar@gmail.com  
 **Response Time:** We aim to respond within 48 hours
 
-**For GDPR Requests:**  
-[INSERT DATA PROTECTION OFFICER EMAIL if applicable]
-
 **Mailing Address:**  
-[INSERT MAILING ADDRESS]
+GratiStellar  
+50 Morton Road  
+Toronto, Ontario  
+Canada M4C4N8
 
 ---
 
@@ -343,5 +351,4 @@ This app uses open-source libraries. Their respective privacy policies and licen
 
 ---
 
-*This privacy policy was last updated on [INSERT DATE] and is effective immediately.*
-
+*This privacy policy was last updated on November 17, 2025 and is effective immediately.*
