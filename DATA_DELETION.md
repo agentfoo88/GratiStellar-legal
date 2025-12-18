@@ -310,12 +310,6 @@ For any questions or assistance with data deletion:
 **Subject Line:** "Data Deletion Request" or "GDPR Request" or "CCPA Request" or "PIPEDA Request"  
 **Response Time:** 48 hours for acknowledgment, 7 days for completion
 
-**Mailing Address:**  
-GratiStellar  
-50 Morton Road  
-Toronto, Ontario  
-Canada M4C4N8
-
 ---
 
 ## Compliance
@@ -333,4 +327,4 @@ This data deletion process complies with:
 
 ---
 
-*Last Updated: November 17, 2025*
+*Last Updated: December 18, 2025*
