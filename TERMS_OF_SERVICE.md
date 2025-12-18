@@ -324,14 +324,10 @@ We are not liable for delays or failures due to circumstances beyond our reasona
 
 For questions, concerns, or notices regarding these Terms:
 
-**Email:** gratistellar@gmail.com  
-**Response Time:** We aim to respond within 48 hours
+**Email:** gratistellar@gmail.com
+Response Time: We aim to respond within 48 hours
 
-**Mailing Address:**  
-GratiStellar  
-50 Morton Road  
-Toronto, Ontario  
-Canada M4C4N8
+For legal notices, please email us with "Legal Notice" in the subject line.
 
 ---
 
