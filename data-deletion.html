@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GratiStellar - Account & Data Deletion</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        h1 { color: #1a237e; }
+        .email { 
+            background: #f5f5f5;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+        a {
+            color: #1976d2;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <h1>🌟 GratiStellar - Account & Data Deletion</h1>
+    
+    <h2>How to Delete Your Account</h2>
+    
+    <h3>Option 1: Delete Within the App (Recommended)</h3>
+    <ol>
+        <li>Open GratiStellar app</li>
+        <li>Tap the menu icon (☰) in the top left</li>
+        <li>Tap "Account"</li>
+        <li>Scroll down and tap "Delete Account"</li>
+        <li>Confirm deletion</li>
+    </ol>
+    <p><strong>This immediately deletes all your data.</strong></p>
+    
+    <h3>Option 2: Email Request</h3>
+    <p>If you're unable to access the app, send an email to:</p>
+    <div class="email">
+        <strong>📧 Email:</strong> <a href="mailto:gratistellar@gmail.com">gratistellar@gmail.com</a><br>
+        <strong>Subject:</strong> "Account Deletion Request"<br>
+        <strong>Include:</strong> The email address associated with your GratiStellar account
+    </div>
+    <p>We'll delete your account within 30 days of your request.</p>
+    
+    <h2>What Gets Deleted</h2>
+    <ul>
+        <li>✓ Your account information (email, display name)</li>
+        <li>✓ All gratitude entries</li>
+        <li>✓ All galaxy collections</li>
+        <li>✓ Cloud backup data</li>
+        <li>✓ Sync data</li>
+    </ul>
+    
+    <h2>What We Keep (Anonymous)</h2>
+    <ul>
+        <li>Crash reports (no personal identifiers)</li>
+        <li>Anonymous analytics (aggregate data only)</li>
+    </ul>
+    
+    <h2>Retention Period</h2>
+    <p>Account deletion is <strong>permanent and immediate</strong>. There is no recovery period.</p>
+    <p>Backup files you exported to your device are not affected - you can delete those manually.</p>
+    
+    <h2>Questions?</h2>
+    <p>Contact us: <a href="mailto:gratistellar@gmail.com">gratistellar@gmail.com</a></p>
+    
+    <hr>
+    <p><small>Last updated: December 2024 | <a href="privacy.html">Privacy Policy</a> | <a href="terms.html">Terms of Service</a></small></p>
+</body>
+</html>
+```
+
+**Step 2: Upload to GitHub Pages**
+
+1. Add `data-deletion.html` to your legal docs GitHub repo
+2. Commit and push
+3. Your URL will be:
+```
+   https://[YOUR-USERNAME].github.io/gratistellar-legal/data-deletion.html
+```
+
+**Step 3: Enter this URL in Play Console**
+
+---
+
+## 🎯 Quick Summary - Your Answers:
+
+| Question | Answer |
+|----------|--------|
+| Collect data? | **YES** |
+| Encrypted in transit? | **YES** |
+| Account creation methods | **Username and password** + **OAuth** (if Google Sign-In enabled) |
+| Delete account URL | `https://[username].github.io/gratistellar-legal/data-deletion.html` |
+
+---
+
+## 🤔 Not Sure About Google Sign-In?
+
+**Check your Firebase Console:**
+
+1. Go to: https://console.firebase.google.com
+2. Select GratiStellar project
+3. Left sidebar → **Authentication** → **Sign-in method**
+4. Is "Google" enabled?
+   - ✅ Enabled → Select **OAuth**
+   - ❌ Disabled → Don't select OAuth
+
+---
+
+## 📧 Alternative (If You Don't Want GitHub Pages)
+
+**Simplest option - Email only:**
+
+Instead of a webpage URL, you can use:
+```
+mailto:gratistellar@gmail.com?subject=Account%20Deletion%20Request
+```
+
+But Google **strongly prefers** a proper webpage. The HTML page above is better.
+
+---
+
+## ✅ Recommended: What to Select
+
+Based on standard GratiStellar setup:
+```
+☑️ Data collection: YES
+☑️ Encrypted in transit: YES
+☑️ Username and password: YES
+☐ Username and other authentication: NO
+☐ Username, password, and other authentication: NO
+☑️ OAuth: YES (if Google Sign-In enabled) or NO (if not)
+☐ Other: NO
+Delete URL: https://[your-github-url]/data-deletion.html
