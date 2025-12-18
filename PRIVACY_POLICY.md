@@ -308,11 +308,7 @@ If you have any questions, concerns, or requests regarding this Privacy Policy o
 **Email:** gratistellar@gmail.com  
 **Response Time:** We aim to respond within 48 hours
 
-**Mailing Address:**  
-GratiStellar  
-50 Morton Road  
-Toronto, Ontario  
-Canada M4C4N8
+For data access requests, account deletion, or privacy concerns, please email us with "Privacy Request" in the subject line.
 
 ---
 
