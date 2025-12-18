@@ -1,7 +1,7 @@
 # Terms of Service for GratiStellar
 
 **Effective Date:** November 17, 2025  
-**Last Updated:** November 17, 2025
+**Last Updated:** December 18, 2025
 
 ## 1. Acceptance of Terms
 
